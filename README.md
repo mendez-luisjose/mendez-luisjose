@@ -4,8 +4,7 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mendez-luisjose&" alt="mendez-luisjose" /></p>
 
 <div>
-- 🔭 I’m currently working on **Machine Learning and Deep Learning Projects**
-
+  <p>- 🔭 I’m currently working on **Machine Learning and Deep Learning Projects**</p>
 - 🌱 I’m currently learning **Machine Learning Libraries as TensorFlow, PyTorch and Scikit-Learn**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mendez-luisjose](https://github.com/mendez-luisjose)
