@@ -11,7 +11,7 @@
     <p>- 🔭 I’m currently working on **Machine Learning and Deep Learning Projects**</p>
   </div>
   <div>
-  <img align="right" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true">
+  <img width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true">
   </div>
 </div>
 
