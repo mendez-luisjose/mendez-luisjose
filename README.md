@@ -2,7 +2,7 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mendez-luisjose&show_icons=true&locale=en&layout=compact" alt="mendez-luisjose" /></p>
 
-<h2 align="center">Current Systems Engineering A.I. Student at Aragua, University 🏛️</h2>
+<h2 align="center">Current Systems Engineering Student In Focus On A.I. 🏛️</h2>
 
 - 🔭 I’m currently working on **Machine Learning and Deep Learning Projects**
 
