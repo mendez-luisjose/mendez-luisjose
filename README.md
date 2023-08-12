@@ -1,6 +1,6 @@
  <h1 align="center">Hi 👋🏻, I'm Luis Jose Mendez 🧑🏻‍💻 </h1>
 
- ![Machine Learning](https://github.com/mendez-luisjose/mendez-luisjose/blob/main/image2.png)
+ ![Machine Learning](https://github.com/mendez-luisjose/mendez-luisjose/blob/main/img.png)
 
 <h2 align="center">Current Systems Engineering Student 👨🏻‍🎓 at Aragua University 🏛️</h2>
 
