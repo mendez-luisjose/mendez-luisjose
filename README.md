@@ -6,7 +6,7 @@
 
   Hello! My name is Luis Jose, I am currently pursuing a Degree in Systems Engineering, with Specialization in Machine Learning, Deep Learning and Computer Vision. 
 
-- 🧠 Specialized in **Machine Learning and Deep Learning Projects** with Python 🐍
+- 🧠 Specialized in **Machine Learning, Deep Learning and Computer Vision** with Python 🐍
   
 - 🤖 All of my Projects are available at: [https://github.com/mendez-luisjose](https://github.com/mendez-luisjose)
   
